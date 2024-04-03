@@ -7,3 +7,11 @@ https://github.com/nastyaku92/typicode
 
 My test server 
 https://my-json-server.typicode.com/nastyaku92/typicode
+
+
+https://my-json-server.typicode.com/nastyaku92/typicode/posts
+https://my-json-server.typicode.com/nastyaku92/typicode/comments
+https://my-json-server.typicode.com/nastyaku92/typicode/profile
+
+
+Test start with script.js, and node.js fetch

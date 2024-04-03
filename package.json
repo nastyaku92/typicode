@@ -1,0 +1,15 @@
+{
+  "name": "typicode",
+  "version": "1.0.0",
+  "description": "Start test for learning REST API and Git",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
